@@ -7,14 +7,11 @@
      ```bash
      brew install git-lfs
      ```
-   - **macOS:**
+   - **Windows:**
      ```bash
-     brew install git-lfs
+     git lfs install
      ```
 
-   - **Windows:**  
-    ```bash
-    git lfs install
     
 2. **Clone this repo.
 3. **Open Scene: Snellen Scene
