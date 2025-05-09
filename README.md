@@ -16,3 +16,7 @@
 2. **Clone this repo.**
 3. **Open Scene: Snellen Scene**
 4. **Build and run on Varjo Aero**
+
+#Debugging Note 
+Blur Shader: Assets/Sreynit-ScotomaCode/GaussianBlurShader.shader
+Shader applied in Scene code: Assets/Sreynit-ScotomaCode/LocalizedBlurEffect.cs
