@@ -7,6 +7,10 @@
      ```bash
      brew install git-lfs
      ```
+   - **macOS:**
+     ```bash
+     brew install git-lfs
+     ```
 
    - **Windows:**  
     ```bash
