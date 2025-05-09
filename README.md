@@ -13,6 +13,6 @@
      ```
 
     
-2. **Clone this repo.
-3. **Open Scene: Snellen Scene
-4. Build and run on Varjo Aero
+2. **Clone this repo.**
+3. **Open Scene: Snellen Scene**
+4. **Build and run on Varjo Aero**
